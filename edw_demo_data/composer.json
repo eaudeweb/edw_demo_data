@@ -1,0 +1,13 @@
+{
+    "name": "eaudeweb/edw_demo_data",
+    "description": "Creates demo data",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "dtabirca",
+            "email": "dtabirca@1029792.no-reply.drupal.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
